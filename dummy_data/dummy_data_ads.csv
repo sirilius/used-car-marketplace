@@ -1,0 +1,321 @@
+user_id,car_id,title,description,mileage_km,color,transmission,negotiable,post_date
+48,1,Dijual Toyota Yaris Hatchback (2016) - Biru dongker - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Yaris
+Tipe Body: Hatchback
+Tahun: 2016
+Harga: 175000000 IDR",72739,Biru dongker,otomatis,False,2022-03-02
+10,2,Dijual Toyota Yaris Hatchback (2018) - Perak - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Yaris
+Tipe Body: Hatchback
+Tahun: 2018
+Harga: 215000000 IDR",77094,Perak,manual,False,2023-03-03
+11,3,Dijual Toyota Yaris Hatchback (2014) - Perak - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Yaris
+Tipe Body: Hatchback
+Tahun: 2014
+Harga: 162000000 IDR
+Harga bisa nego",4815,Perak,manual,True,2022-11-30
+85,4,Dijual Toyota Yaris Hatchback (2020) - Hijau tua - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Yaris
+Tipe Body: Hatchback
+Tahun: 2020
+Harga: 220000000 IDR",80491,Hijau tua,manual,False,2023-03-06
+15,5,Dijual Toyota Yaris Hatchback (2012) - Hijau muda - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Yaris
+Tipe Body: Hatchback
+Tahun: 2012
+Harga: 124000000 IDR",86673,Hijau muda,otomatis,False,2022-06-07
+20,6,Dijual Toyota Agya Hatchback (2019) - Zaitun - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Agya
+Tipe Body: Hatchback
+Tahun: 2019
+Harga: 114000000 IDR
+Harga bisa nego",75193,Zaitun,otomatis,True,2023-04-08
+22,7,Dijual Toyota Agya Hatchback (2014) - Nila - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Agya
+Tipe Body: Hatchback
+Tahun: 2014
+Harga: 97000000 IDR",80116,Nila,manual,False,2022-07-17
+43,8,Dijual Toyota Agya Hatchback (2016) - Biru dongker - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Agya
+Tipe Body: Hatchback
+Tahun: 2016
+Harga: 110000000 IDR",12671,Biru dongker,otomatis,False,2022-01-11
+91,9,Dijual Toyota Agya Hatchback (2022) - Emas - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Agya
+Tipe Body: Hatchback
+Tahun: 2022
+Harga: 155500000 IDR",53463,Emas,otomatis,False,2022-06-03
+34,10,Dijual Toyota Agya Hatchback (2017) - Koral - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Agya
+Tipe Body: Hatchback
+Tahun: 2017
+Harga: 115500000 IDR
+Harga bisa nego",82024,Koral,manual,True,2022-10-30
+2,11,Dijual Toyota Calya Wagon (2019) - Ungu - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Calya
+Tipe Body: Wagon
+Tahun: 2019
+Harga: 130000000 IDR",20065,Ungu,manual,False,2022-05-30
+4,12,Dijual Toyota Calya Wagon (2019) - Perak - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Calya
+Tipe Body: Wagon
+Tahun: 2019
+Harga: 137000000 IDR",14140,Perak,manual,False,2022-10-28
+1,13,Dijual Toyota Calya Wagon (2017) - Nila - manual,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Calya
+Tipe Body: Wagon
+Tahun: 2017
+Harga: 115500000 IDR
+Harga bisa nego",16795,Nila,manual,True,2022-05-31
+36,14,Dijual Toyota Calya Wagon (2016) - Hitam - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Calya
+Tipe Body: Wagon
+Tahun: 2016
+Harga: 104000000 IDR",90290,Hitam,otomatis,False,2022-06-04
+71,15,Dijual Toyota Calya Wagon (2016) - Merah marun - otomatis,"Informasi mobil:
+Brand: Toyota
+Model: Toyota Calya
+Tipe Body: Wagon
+Tahun: 2016
+Harga: 107000000 IDR
+Harga bisa nego",74339,Merah marun,otomatis,True,2022-03-21
+2,16,Dijual Daihatsu Ayla Hatchback (2016) - Ungu - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Ayla
+Tipe Body: Hatchback
+Tahun: 2016
+Harga: 83000000 IDR
+Harga bisa nego",24178,Ungu,otomatis,True,2022-09-24
+1,17,Dijual Daihatsu Ayla Hatchback (2019) - Coklat tua - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Ayla
+Tipe Body: Hatchback
+Tahun: 2019
+Harga: 120000000 IDR",44048,Coklat tua,otomatis,False,2022-10-24
+43,18,Dijual Daihatsu Ayla Hatchback (2015) - Kuning - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Ayla
+Tipe Body: Hatchback
+Tahun: 2015
+Harga: 96000000 IDR
+Harga bisa nego",66297,Kuning,manual,True,2023-03-18
+84,19,Dijual Daihatsu Ayla Hatchback (2017) - Hitam - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Ayla
+Tipe Body: Hatchback
+Tahun: 2017
+Harga: 115000000 IDR
+Harga bisa nego",59436,Hitam,otomatis,True,2022-02-21
+83,20,Dijual Daihatsu Ayla Hatchback (2017) - Emas - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Ayla
+Tipe Body: Hatchback
+Tahun: 2017
+Harga: 113000000 IDR
+Harga bisa nego",58457,Emas,manual,True,2022-03-15
+95,21,Dijual Daihatsu Terios SUV (2018) - Coklat tua - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Terios
+Tipe Body: SUV
+Tahun: 2018
+Harga: 190000000 IDR
+Harga bisa nego",93554,Coklat tua,manual,True,2023-01-01
+64,22,Dijual Daihatsu Terios SUV (2022) - Hijau muda - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Terios
+Tipe Body: SUV
+Tahun: 2022
+Harga: 223000000 IDR",69042,Hijau muda,manual,False,2022-04-24
+48,23,Dijual Daihatsu Terios SUV (2019) - Merah marun - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Terios
+Tipe Body: SUV
+Tahun: 2019
+Harga: 189900000 IDR
+Harga bisa nego",9429,Merah marun,otomatis,True,2022-12-14
+50,24,Dijual Daihatsu Terios SUV (2017) - Hijau tua - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Terios
+Tipe Body: SUV
+Tahun: 2017
+Harga: 166000000 IDR",74792,Hijau tua,otomatis,False,2023-02-18
+57,25,Dijual Daihatsu Terios SUV (2018) - Coklat - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Terios
+Tipe Body: SUV
+Tahun: 2018
+Harga: 201000000 IDR",27233,Coklat,otomatis,False,2023-04-09
+56,26,Dijual Daihatsu Xenia MPV (2019) - Merah - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Xenia
+Tipe Body: MPV
+Tahun: 2019
+Harga: 170000000 IDR",11580,Merah,otomatis,False,2023-02-12
+83,27,Dijual Daihatsu Xenia MPV (2022) - Ungu - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Xenia
+Tipe Body: MPV
+Tahun: 2022
+Harga: 220500000 IDR
+Harga bisa nego",97687,Ungu,manual,True,2022-05-02
+24,28,Dijual Daihatsu Xenia MPV (2017) - Koral - otomatis,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Xenia
+Tipe Body: MPV
+Tahun: 2017
+Harga: 135000000 IDR",4308,Koral,otomatis,False,2022-03-04
+32,29,Dijual Daihatsu Xenia MPV (2014) - Biru dongker - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Xenia
+Tipe Body: MPV
+Tahun: 2014
+Harga: 100000000 IDR",33696,Biru dongker,manual,False,2022-08-21
+59,30,Dijual Daihatsu Xenia MPV (2018) - Ungu tua - manual,"Informasi mobil:
+Brand: Daihatsu
+Model: Daihatsu Xenia
+Tipe Body: MPV
+Tahun: 2018
+Harga: 159000000 IDR
+Harga bisa nego",26214,Ungu tua,manual,True,2022-03-17
+65,31,Dijual Honda Jazz Hatchback (2018) - Hijau muda - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Jazz
+Tipe Body: Hatchback
+Tahun: 2018
+Harga: 236000000 IDR",20652,Hijau muda,otomatis,False,2023-03-15
+2,32,Dijual Honda Jazz Hatchback (2019) - Coklat tua - manual,"Informasi mobil:
+Brand: Honda
+Model: Honda Jazz
+Tipe Body: Hatchback
+Tahun: 2019
+Harga: 250000000 IDR
+Harga bisa nego",61375,Coklat tua,manual,True,2022-02-19
+11,33,Dijual Honda Jazz Hatchback (2018) - Abu-abu - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Jazz
+Tipe Body: Hatchback
+Tahun: 2018
+Harga: 216000000 IDR",27582,Abu-abu,otomatis,False,2022-07-18
+18,34,Dijual Honda Jazz Hatchback (2015) - Perak - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Jazz
+Tipe Body: Hatchback
+Tahun: 2015
+Harga: 192000000 IDR",82394,Perak,otomatis,False,2023-04-22
+82,35,Dijual Honda Jazz Hatchback (2013) - Nila - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Jazz
+Tipe Body: Hatchback
+Tahun: 2013
+Harga: 178000000 IDR",85642,Nila,otomatis,False,2022-05-31
+95,36,Dijual Honda CR-V SUV (2018) - Jingga - manual,"Informasi mobil:
+Brand: Honda
+Model: Honda CR-V
+Tipe Body: SUV
+Tahun: 2018
+Harga: 415000000 IDR",7724,Jingga,manual,False,2022-10-16
+7,37,Dijual Honda CR-V SUV (2017) - Merah - manual,"Informasi mobil:
+Brand: Honda
+Model: Honda CR-V
+Tipe Body: SUV
+Tahun: 2017
+Harga: 345000000 IDR
+Harga bisa nego",63974,Merah,manual,True,2022-05-12
+9,38,Dijual Honda CR-V SUV (2009) - Koral - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda CR-V
+Tipe Body: SUV
+Tahun: 2009
+Harga: 116000000 IDR
+Harga bisa nego",90208,Koral,otomatis,True,2023-03-06
+48,39,Dijual Honda CR-V SUV (2016) - Coklat - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda CR-V
+Tipe Body: SUV
+Tahun: 2016
+Harga: 269000000 IDR",80483,Coklat,otomatis,False,2022-03-31
+61,40,Dijual Honda CR-V SUV (2018) - Abu-abu - manual,"Informasi mobil:
+Brand: Honda
+Model: Honda CR-V
+Tipe Body: SUV
+Tahun: 2018
+Harga: 398500000 IDR
+Harga bisa nego",98177,Abu-abu,manual,True,2022-09-24
+24,41,Dijual Honda Civic Hatchback (2018) - Zaitun - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Civic
+Tipe Body: Hatchback
+Tahun: 2018
+Harga: 350000000 IDR",94785,Zaitun,otomatis,False,2022-03-17
+28,42,Dijual Honda Civic Sedan (2010) - Ungu - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Civic
+Tipe Body: Sedan
+Tahun: 2010
+Harga: 165000000 IDR
+Harga bisa nego",75100,Ungu,otomatis,True,2023-02-19
+58,43,Dijual Honda Civic Sedan (2013) - Biru - manual,"Informasi mobil:
+Brand: Honda
+Model: Honda Civic
+Tipe Body: Sedan
+Tahun: 2013
+Harga: 186000000 IDR",18115,Biru,manual,False,2022-12-30
+66,44,Dijual Honda Civic Sedan (2013) - Koral - manual,"Informasi mobil:
+Brand: Honda
+Model: Honda Civic
+Tipe Body: Sedan
+Tahun: 2013
+Harga: 179000000 IDR",28632,Koral,manual,False,2022-02-08
+67,45,Dijual Honda Civic Hatchback (2019) - Ungu tua - otomatis,"Informasi mobil:
+Brand: Honda
+Model: Honda Civic
+Tipe Body: Hatchback
+Tahun: 2019
+Harga: 397500000 IDR",91598,Ungu tua,otomatis,False,2022-01-25
+23,46,Dijual Suzuki Ertiga MPV (2015) - Emas - manual,"Informasi mobil:
+Brand: Suzuki
+Model: Suzuki Ertiga
+Tipe Body: MPV
+Tahun: 2015
+Harga: 125000000 IDR
+Harga bisa nego",61232,Emas,manual,True,2022-06-01
+54,47,Dijual Suzuki Ertiga MPV (2018) - Hitam - manual,"Informasi mobil:
+Brand: Suzuki
+Model: Suzuki Ertiga
+Tipe Body: MPV
+Tahun: 2018
+Harga: 178000000 IDR",7379,Hitam,manual,False,2023-04-18
+51,48,Dijual Suzuki Ertiga MPV (2016) - Merah - otomatis,"Informasi mobil:
+Brand: Suzuki
+Model: Suzuki Ertiga
+Tipe Body: MPV
+Tahun: 2016
+Harga: 168000000 IDR
+Harga bisa nego",68221,Merah,otomatis,True,2022-12-03
+90,49,Dijual Suzuki Ertiga MPV (2012) - Putih - manual,"Informasi mobil:
+Brand: Suzuki
+Model: Suzuki Ertiga
+Tipe Body: MPV
+Tahun: 2012
+Harga: 100000000 IDR",51668,Putih,manual,False,2022-10-29
+62,50,Dijual Suzuki Ertiga MPV (2018) - Hitam - manual,"Informasi mobil:
+Brand: Suzuki
+Model: Suzuki Ertiga
+Tipe Body: MPV
+Tahun: 2018
+Harga: 167000000 IDR",44668,Hitam,manual,False,2022-08-18
